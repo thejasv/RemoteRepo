@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckGit", "CheckGit\CheckGit.csproj", "{4F879A22-BE41-463F-9D3A-2966A4F4019B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F879A22-BE41-463F-9D3A-2966A4F4019B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F879A22-BE41-463F-9D3A-2966A4F4019B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F879A22-BE41-463F-9D3A-2966A4F4019B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F879A22-BE41-463F-9D3A-2966A4F4019B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {264CF192-CD95-4582-8A62-5F7D21F4518C}
+	EndGlobalSection
+EndGlobal
